@@ -1,0 +1,22 @@
+The project is a simple simulation of an email server handling secure communications between 
+clients. There is 5 known clients and each of them have a password stored in the 
+user_pass.json file. They use this criteria to sign in to the client program. The server 
+checks the username and password to make sure there isn't an unknown user signing in to use 
+the service. 
+
+The theme of the project was secure exchange of information between the clients.
+Key_generator.py file is incharge of creating a private key for the server and each of the 
+clients using RSA from the Crypto.public library. Once they are created, they are stored 
+in pem files. The server public key and all client server keys are saved on the derver folder.
+The client public keys are also saved in the cleint folder. The server private key is stored
+in the server folder.
+After the client program asks the client to enter the sign in, the user name and password 
+are encrypted using the server public key and sent to the server, the server uses its private
+key to decrypt the sign in info and check if they match the known users and if they do, it 
+allows the client to use its services. 
+
+After verifying the user, the server generates an AES symmetric key used to encrypt back 
+and forth messages between the server and client. The key is encrypted using the current client's 
+public key, and once the client program receives the encypted key it uses its own private key to
+decrypt the symmetric key to help it send secure messages to the server. 
+There is a menu that can be explored.

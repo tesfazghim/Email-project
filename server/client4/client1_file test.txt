@@ -1,0 +1,42 @@
+Chapter lists
+Memory: 13, 18, 19 (slides from Social Network)
+I will not ask about segmentation. Focus on paging and its tradeoffs (multi-levels, page size, etc.)
+Concurrency: 26, 27, 28, 30, 31, 32 (Rob Pike’s talk)
+I will not ask about the Go language
+Persistence: 37, 38, 39, 40 (slides used in lecture)
+Chapters 39 & 40 discuss inodes, file & directories, much of what we discussed via the slides
+Chapter lists
+Memory: 13, 18, 19 (slides from Social Network)
+I will not ask about segmentation. Focus on paging and its tradeoffs (multi-levels, page size, etc.)
+Concurrency: 26, 27, 28, 30, 31, 32 (Rob Pike’s talk)
+I will not ask about the Go language
+Persistence: 37, 38, 39, 40 (slides used in lecture)
+Chapters 39 & 40 discuss inodes, file & directories, much of what we discussed via the slides
+Chapter lists
+Memory: 13, 18, 19 (slides from Social Network)
+I will not ask about segmentation. Focus on paging and its tradeoffs (multi-levels, page size, etc.)
+Concurrency: 26, 27, 28, 30, 31, 32 (Rob Pike’s talk)
+I will not ask about the Go language
+Persistence: 37, 38, 39, 40 (slides used in lecture)
+Chapters 39 & 40 discuss inodes, file & directories, much of what we discussed via the slides
+Chapter lists
+Memory: 13, 18, 19 (slides from Social Network)
+I will not ask about segmentation. Focus on paging and its tradeoffs (multi-levels, page size, etc.)
+Concurrency: 26, 27, 28, 30, 31, 32 (Rob Pike’s talk)
+I will not ask about the Go language
+Persistence: 37, 38, 39, 40 (slides used in lecture)
+Chapters 39 & 40 discuss inodes, file & directories, much of what we discussed via the slides
+Chapter lists
+Memory: 13, 18, 19 (slides from Social Network)
+I will not ask about segmentation. Focus on paging and its tradeoffs (multi-levels, page size, etc.)
+Concurrency: 26, 27, 28, 30, 31, 32 (Rob Pike’s talk)
+I will not ask about the Go language
+Persistence: 37, 38, 39, 40 (slides used in lecture)
+Chapters 39 & 40 discuss inodes, file & directories, much of what we discussed via the slides
+Chapter lists
+Memory: 13, 18, 19 (slides from Social Network)
+I will not ask about segmentation. Focus on paging and its tradeoffs (multi-levels, page size, etc.)
+Concurrency: 26, 27, 28, 30, 31, 32 (Rob Pike’s talk)
+I will not ask about the Go language
+Persistence: 37, 38, 39, 40 (slides used in lecture)
+Chapters 39 & 40 discuss inodes, file & directories, much of what we discussed via the slides

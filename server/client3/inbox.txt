@@ -1,0 +1,1 @@
+{"inbox": [{"From": "client1", "To": ["client2", "client3"], "Title": "text test", "Content Length": 127, "Time and date": "2020-12-12, 21:09:04"}, {"From": "client1", "To": ["client3", "client4"], "Title": "file test", "Content Length": 2406, "Time and date": "2020-12-12, 21:09:47"}]}
