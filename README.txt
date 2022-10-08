@@ -13,7 +13,7 @@ Steps to run the project:
    the known clients. 
    Use "localhost" as server name for ease of run.
    The client user names and passowrds can be found in the user_pass.json file.
-3. Use the ''' python3 <fileName>.py '''
+3. Use the ``` python3 <fileName>.py ```
    to run the python programs. Run server.py first followed by client.py
    in their respective cmd windows.
 4. Use the client cmd windows to use the program.
